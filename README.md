@@ -60,7 +60,7 @@ Remember, you can run the tests at any time with `npm run test`
 ## Author
 
 * Heribert Villazana
-* Github: herivillaz
+* Github: [herivillaz](https://github.com/herivillaz/)
 
 ![Repo Owner Image](https://avatars.githubusercontent.com/herivillaz?s=200)
 
